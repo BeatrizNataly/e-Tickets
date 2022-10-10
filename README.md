@@ -1,4 +1,5 @@
 # 🎟️ e-Tickets
+### ATENÇÃO: Este projeto foi descontinuado. Uma nova versão melhorada poderá ser lançada futuramente, porém o projeto contido neste repositório não sofrerá mais atualizações.
 Um aplicativo fictício para compra online de ingressos para eventos.
 
 ![Mockup da interface principal do aplicativo](https://github.com/BeatrizNataly/e-Tickets/blob/main/images/etickets-mockup-1-ver2.png?raw=true)
